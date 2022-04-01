@@ -1,7 +1,7 @@
 
 
 
-const numbers =[5,2,1,3,4];
+const numbers =[5,2,1,3,4,6,7,8,9];
 
 // Solution 1
 //numbers.reverse (numbers.sort());
